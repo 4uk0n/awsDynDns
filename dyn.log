@@ -1,0 +1,8 @@
+dynDns:INFO:2019-01-09 19:07:20,682 - Starting dynamic DNS check.
+dynDns:INFO:2019-01-09 19:07:20,991 - Domain A record(69.14.145.69) and public IP(69.14.145.70) do not match! Attempting to update Domain A Record to 69.14.145.70.
+dynDns:INFO:2019-01-09 19:07:53,062 - Change status INSYNC
+dynDns:INFO:2019-01-09 19:07:53,062 - Stopping dynamic DNS check.
+dynDns:INFO:2019-01-09 19:08:25,256 - Starting dynamic DNS check.
+dynDns:INFO:2019-01-09 19:08:25,850 - Domain A record(69.14.145.70) and public IP(69.14.145.69) do not match! Attempting to update Domain A Record to 69.14.145.69.
+dynDns:INFO:2019-01-09 19:09:00,114 - Change status INSYNC
+dynDns:INFO:2019-01-09 19:09:00,114 - Stopping dynamic DNS check.
